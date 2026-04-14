@@ -20,7 +20,7 @@ programs, and close stakeholder involvement to ensure the system ultimately
 delivers on its promise of operational efficiency and quality healthcare
 improvements.
 
-PROBLEM STATEMENT
+Problem Statement : 
 Traditional manual processes in hospitals cause inefficiencies, fragmented records,
 and errors in patient management, billing, and department coordination. These
 issues lead to delays in care, higher costs, and data security risks. An HMS
@@ -34,7 +34,7 @@ reduce the quality of healthcare and create operational burdens for staff.
 Implementing a smart, digitized system is necessary to ensure accurate
 documentation, streamline workflows, and meet modern healthcare demands.
 
- OBJECTIVES
+ Objectives:
 The primary objectives of a Hospital Management System are to automate and
 streamline hospital processes, ensure accurate patient and administrative recordkeeping, improve patient care and safety, manage resources efficiently, and
 support better decision-making through timely reports and analytics.
